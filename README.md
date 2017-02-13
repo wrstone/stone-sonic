@@ -1,7 +1,11 @@
 # The "Stone Sonic" Screwdriver: the Geek's Multitool
 This project is the back-end for the "Stone Sonic" Screwdriver.
 
-It is a fingernail-sized, high-capacity, high-speed thumb drive packaged with a Retract-A-Bit Mini screwdriver.
+Unfortunately, the image used for duplication is 128GB and cannot be included in the GitHub repository.  The repo will:
+* Track and document all software and hardware changes.
+* Provide Bittorrent files and magnet links to the current image.
+
+Physically, the "Stone Sonic" is a fingernail-sized, high-capacity, high-speed thumb drive packaged with a Retract-A-Bit Mini screwdriver.
 
 Technical specs of the current drive are:
 * Low-profile, plug-and-stay drive
