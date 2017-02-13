@@ -17,7 +17,7 @@ The drive is configured with:
 * PortableApps.com
 * A full Kali Linux installation
 
-All three track the current versions.
+All three track the current stable versions.
 
 The Retract-A-Bit Mini is a small, palm-sized screwdriver that includes:
 * Phillips #0
@@ -26,3 +26,7 @@ The Retract-A-Bit Mini is a small, palm-sized screwdriver that includes:
 * 1/16" Slotted
 * 5/32" Slot
 * Ball-point pen
+
+### Possible future improvements
+* Integrate flash drive case into screwdriver
+* Replace square head bit with laser pointer
