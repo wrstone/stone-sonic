@@ -1,9 +1,9 @@
 # The "Stone Sonic" Screwdriver: the Geek's Multitool
 This project is the back-end for the "Stone Sonic" Screwdriver.
 
-The image used for duplication is 128GB and cannot be easily included in the GitHub repository.
+The image used for duplication is 128GB and cannot be easily included in the GitHub repository.  It is available via Bittorrent.
 
-## This Repository
+## The GitHub Repository
 * Tracks and documents all software and hardware changes.
 * Provide Bittorrent files and magnet links to the current image.
 * Provide resources to return a "bricked" drive to the factory default configuration.
