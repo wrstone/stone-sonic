@@ -36,7 +36,7 @@ All three track the current versions.
 * Ball-point pen
 
 ## Notes
-See [http://a.co/7brS3ll](Amazon) for hardware details.
+See [https://smile.amazon.com/gp/registry/wishlist/3EFPKBOG8XJ8R/](Amazon) for hardware details.
 
 ## Possible future improvements
 * Integrate flash drive case into screwdriver
